@@ -1,0 +1,27 @@
+h1 {
+    width: 200px;
+    height: 50;
+    background-color: rgb(24, 204, 78);
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+}
+
+div {
+    height: 100px;
+    width: 80px;
+    background-color: rgb(238, 75, 238);
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: black;*/
+    border: 2px solid red;
+    text-align: center;
+}
+
+button {
+    background-color: blueviolet;
+}
+
+body {
+    background-color: rgb(173, 238, 216);
+}

@@ -1,0 +1,49 @@
+#box {
+    background-color: aquamarine;
+}
+
+h1,
+h2,
+h3 {
+    color: blueviolet;
+}
+
+button {
+    background-color: rgb(218, 134, 134);
+}
+
+p {
+    text-align: right;
+}
+
+div {
+    background-color: burlywood;
+}
+
+#head {
+    background-color: red;
+}
+
+#heading {
+    text-decoration: underline;
+}
+
+#heading {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#he1 {
+    font-weight: normal;
+}
+
+#he2 {
+    font-weight: bold;
+}
+
+#he3 {
+    font-weight: lighter;
+}

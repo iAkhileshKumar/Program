@@ -1,0 +1,16 @@
+h1 {
+    color: aqua;
+}
+
+p {
+    color: blueviolet;
+}
+
+button {
+    color: rgb(230, 27, 60);
+    background-color: blueviolet;
+}
+
+body {
+    background-color: #e61166;
+}
